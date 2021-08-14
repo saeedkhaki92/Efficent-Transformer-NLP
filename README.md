@@ -32,4 +32,4 @@ I used the MultiWoz dataset. It has more than 10,000 human annotated dialogues a
 
 
 
-![Alt Text](https://github.com/saeedkhaki92/NLP-Question-duplicates/blob/main/meme.png)
+![Alt Text](https://github.com/saeedkhaki92/Efficent-Transformer-NLP/blob/main/Reformer.jpg)
