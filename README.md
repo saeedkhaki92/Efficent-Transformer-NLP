@@ -6,8 +6,6 @@ In this project, I use the Reformer, also known as the efficient Transformer, to
 
 
 
-![Alt Text](https://github.com/saeedkhaki92/NLP-Question-duplicates/blob/main/meme.png)
-
 
 ## Getting Started
 
@@ -27,3 +25,11 @@ Following packages should be installed on python 3:
 ## Dataset
 
 I used the MultiWoz dataset. It has more than 10,000 human annotated dialogues and spans multiple domains and topics. Some dialogues include multiple domains and others include single domains.
+
+
+
+### Efficent-Transformer Model:
+
+
+
+![Alt Text](https://github.com/saeedkhaki92/NLP-Question-duplicates/blob/main/meme.png)
