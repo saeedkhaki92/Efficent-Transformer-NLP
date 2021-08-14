@@ -33,3 +33,9 @@ I used the MultiWoz dataset. It has more than 10,000 human annotated dialogues a
 
 
 ![Alt Text](https://github.com/saeedkhaki92/Efficent-Transformer-NLP/blob/main/Reformer.jpg)
+
+
+
+## Instructions
+
+You can train the model from scrath using the Google Colab notebooks. Please use `Efficent-Transformer.ipynb` for Trax version.
